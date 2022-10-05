@@ -1,7 +1,7 @@
 # vite-reactjs-emotion-miniproject
 A little project based in reactjs with emotion
 
-### `npm i`
+### `npm install`
 
 Install the dependencies.
 
